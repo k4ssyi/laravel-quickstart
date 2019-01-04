@@ -13,3 +13,5 @@
 https://readouble.com/laravel/5.1/ja/quickstart.html
 
 https://beiznotes.org/making-task-list-with-laravel55-1/
+
+![laravel_quick_start_display](https://user-images.githubusercontent.com/36563045/50681119-9b90e000-104d-11e9-8d96-5da95d16f119.png)
